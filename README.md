@@ -1,5 +1,4 @@
-# Sublime-Text
-Sublime Text 4 build for C++
+# Sublime-Text (4)
 
 ---------------------------------------------------------------
 
