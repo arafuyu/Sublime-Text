@@ -1,4 +1,4 @@
 int main()
 {
-	system("chcp 10000"); //c++ code to display all symbols on all language
+	system("chcp 65001"); //c++ code to display all symbols on all language
 }
