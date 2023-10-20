@@ -3,6 +3,8 @@ Sublime Text 4 build for C++ and a couple other things
 ---------------------------------------------------------------
 
 In folder C++ :
+
+  G++ setup (The very first thing you should do)
   
   C++.sublime-build (ONLY FOR VIEW YOUR TEXT)
   
