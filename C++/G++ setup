@@ -1,0 +1,13 @@
+# Download GCC to work with C++ language
+
+Link: https://winlibs.com/#download-release
+
+Instructions:
+
+1) The downloaded archive should be placed in the root of the C:// drive.
+
+2) you need to copy the path to the bin folder (if you have done the upper step, it is: C:\mingw64\bin).
+
+3) Go into your PC's environment variables and add this path to PATH
+
+4) Run CMD and write "gcc --version" should show the version of your MinGW, if it doesn't, repeat step 3.
